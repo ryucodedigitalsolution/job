@@ -31,7 +31,7 @@ Tujuan utama fitur-fitur ini adalah:
 
 Ticketing adalah sistem bantuan pelanggan.
 
-Jika artist mengalami masalah, mereka dapat membuat â€œtiket bantuanâ€ seperti membuat laporan resmi.
+Jika artist mengalami masalah, mereka dapat membuat “tiket bantuan” seperti membuat laporan resmi.
 
 Contoh:
 - Lagu belum masuk platform
@@ -82,18 +82,18 @@ Admin dapat:
 ## Contoh Alur Ticketing
 
 1. Artist membuat tiket:
-   â€œLagu saya belum muncul di Spotifyâ€
+   “Lagu saya belum muncul di Spotify”
 
 2. Admin menerima notifikasi
 
 3. Admin membalas:
-   â€œSedang kami cekâ€
+   “Sedang kami cek”
 
 4. Status berubah menjadi:
-   â€œIn Progressâ€
+   “In Progress”
 
 5. Setelah selesai:
-   Status menjadi â€œClosedâ€
+   Status menjadi “Closed”
 
 ---
 
@@ -209,7 +209,7 @@ Admin dapat:
 
 ### Search Artikel
 Artist tinggal mengetik:
-> â€œSpotify tidak munculâ€
+> “Spotify tidak muncul”
 
 Sistem akan mencari artikel terkait.
 
@@ -217,8 +217,8 @@ Sistem akan mencari artikel terkait.
 
 ### Rating Artikel
 Artist dapat memilih:
-- â€œArtikel membantuâ€
-- â€œTidak membantuâ€
+- “Artikel membantu”
+- “Tidak membantu”
 
 Admin bisa tahu artikel mana yang bagus.
 
@@ -323,14 +323,14 @@ Admin dapat:
 ## Contoh Alur Repair
 
 1. Artist melapor:
-   â€œNama artis salah di Apple Musicâ€
+   “Nama artis salah di Apple Music”
 
 2. Admin menerima request
 
 3. Admin memproses perubahan
 
 4. Status berubah menjadi:
-   â€œDoneâ€
+   “Done”
 
 5. Artist menerima notifikasi
 
