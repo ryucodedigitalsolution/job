@@ -1,7 +1,7 @@
 # ATSALARA — Blueprint Fitur Baru
 
 > Ticketing · Shared Inbox · Knowledge Base · Reporting · Sistem Repair  
-> Dokumen Teknis — ioodev
+> Dokumen Teknis
 
 ---
 
@@ -495,4 +495,4 @@ CREATE TABLE repair_requests (
 
 **Total: 17 halaman + 3 file API + 5 tabel database baru**
 
-_Dokumen ini dibuat oleh ioodev untuk project Atsalara Distribution Platform._
+_Dokumen ini dibuat untuk project Atsalara Distribution Platform._
